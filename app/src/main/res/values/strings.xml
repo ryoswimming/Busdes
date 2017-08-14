@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Busdes</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">バスデス！</string>
+    <string name="title_home">経路検索</string>
+    <string name="title_dashboard">Myルート</string>
+    <string name="title_notifications">時刻表</string>
 </resources>
